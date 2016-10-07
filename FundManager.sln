@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundManager", "StockManager\FundManager.csproj", "{F1CD5A01-049E-455E-9740-331E84125350}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundManager", "FundManager\FundManager.csproj", "{F1CD5A01-049E-455E-9740-331E84125350}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundManager.Tests", "StockManager.Tests\FundManager.Tests.csproj", "{D14DC31F-C218-4064-8C27-A9641526CA4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundManager.Tests", "FundManager.Tests\FundManager.Tests.csproj", "{D14DC31F-C218-4064-8C27-A9641526CA4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
